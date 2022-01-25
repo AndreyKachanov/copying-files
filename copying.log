@@ -1,0 +1,1 @@
+select count(*) from eoda.copying_files where is_copied='0') app artisan bootstrap composer.json composer.lock config copying.sh copying.sh½ database package.json phpunit.xml public README.md resources routes server.php storage tests vendor webpack.mix.js ERROR at line 1: ORA-00933: SQL command not properly ended
